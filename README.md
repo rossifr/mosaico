@@ -1,1 +1,1 @@
-# mosaico Mosaico
+# mosaico
